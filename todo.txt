@@ -1,4 +1,0 @@
-funcs to implement
-	at main.go
-		run
-	
